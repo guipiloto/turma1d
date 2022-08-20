@@ -1,4 +1,4 @@
 # turma1d
 arquivos da aula de pensamentos computacional
-##linguagens
+## linguagens
 html css java 
